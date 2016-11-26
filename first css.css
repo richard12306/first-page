@@ -25,8 +25,8 @@
 	border-radius: 5px;
 	display: table-cell;
 	margin: 0 auto;
-	left: 0px;
-	top: 0px;
+	left: 190px;
+	top: 840px;
 	
 }
 .Button{
@@ -61,8 +61,8 @@
 	margin: 0px;
 	background-image: radial-gradient(black,white,)
 	padding:0px;
-	top: 0px;
-	left: 0px;
+	top: 840px;
+	left: 220px;
 }
 
 .Home{
@@ -153,17 +153,17 @@
 	left: 53px;
 
 }
-.HaoYou1{
+.haoyou1{
 	position: relative;
 	width: 10%;
 	height: 10%;
 
 }
-.HaoYou{
+.haoyou2{
 	position: relative;
 	width: 10%;
 	height: 10%;
-	
+
 }
 
 
