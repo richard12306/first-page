@@ -1,0 +1,169 @@
+.tiaoshi{
+	position: relative;
+	top: 1000px;
+}
+.Bodystyle{
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 50%;
+	overflow: auto;
+}
+.Form1{
+	position: relative;
+	left: 850px;
+	top: 10px;
+	width: 15%;
+	height: 25px;
+	border-radius: 5px;
+	display: table-cell;
+	margin: 0 auto;
+}
+.Type{
+	position: relative;
+	width: 25%;
+	height: 25px;
+	border-radius: 5px;
+	display: table-cell;
+	margin: 0 auto;
+	left: 0px;
+	top: 0px;
+	
+}
+.Button{
+	position: relative;
+	font-family: serif;
+	width: 8%;
+	height: 30px;
+	background-color: black;
+	color:white;
+	font-size: 20px;
+	margin: 0px;
+	padding: 0px;
+	border:none;
+	text-decoration: none;
+	left: 870px;
+	top: 10px;
+	border-radius: 5px;
+	display: table-cell;
+	background-image: linear-gradient(white, 40%, black);
+}
+.Post{
+	position: relative;
+	font-family: serif;
+	width: 8%;
+	background-color: black;
+	height: 50%;
+	color:white;
+	font-size: 20px;
+	text-decoration: none;
+	display: table-cell;
+	border-radius: 0px;
+	margin: 0px;
+	background-image: radial-gradient(black,white,)
+	padding:0px;
+	top: 0px;
+	left: 0px;
+}
+
+.Home{
+	color:black;
+	font-size: 15px;
+	text-decoration: none;
+	position: relative;
+	left: 40%;
+	top: 400px;
+}
+.Me{
+	color:black;
+	font-size: 15px;
+	text-decoration: none;
+	position: relative;	
+
+}
+.Friends{
+	color:black;
+	font-size: 15px;
+	text-decoration: none;
+	position: relative;
+
+}
+.About{	
+	color:black;
+	font-size: 15px;
+	text-decoration: none;
+	position: relative;
+	font
+
+}
+.P1{
+	position: relative;
+	width: 18%;
+	height: 200px;
+	left:150px;
+	top: 450px;
+}
+.P2{
+	position: relative;
+	width: 18%;
+	height: 200px;
+	left: 660px;
+	top: 450px;
+}
+.P3{
+	position: relative;
+	width: 18%;
+	height: 200px;
+	left: 180px;
+	top: 450px;
+}
+.P4{
+	position: relative;
+	width: 18%;
+	height: 200px;
+	left: -300px;
+	top: 450px;
+}
+.DongTai{
+	position: relative;
+	left: 95px;
+	top: -200px;
+	width: 80%;
+	height: 70%;
+
+}
+.Twitter{
+	position: relative;
+	width: 3%;
+	height: 3%;
+	left: -1000px;
+	top: -500px;
+
+}
+.XinFeng{
+	position: relative;
+	width: 1%;
+	height:1%;
+	top: -700px;
+	left: -600px;
+
+}
+.Zan{
+	position: relative;
+	top: -2117px;
+	left: 53px;
+
+}
+.HaoYou1{
+	position: relative;
+	width: 10%;
+	height: 10%;
+
+}
+.HaoYou{
+	position: relative;
+	width: 10%;
+	height: 10%;
+	
+}
+
+
